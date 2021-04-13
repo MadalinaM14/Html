@@ -1,0 +1,58 @@
+body{
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0px;
+    padding: 0px;
+    background-image: url("poze/index/picture9.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+
+header{
+    text-align: center;
+    font-size: 15px;
+    margin: 0px;
+    padding: 0px;
+    height: 130px;
+    
+}
+h1{
+    
+    font-size: 50px;
+    width: 250px;
+    height: 100px;
+    font-style: italic;
+    font-family: fantasy;
+    position: relative;
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    text-decoration: none;
+    margin-top: -20px;
+}
+nav{
+    
+    margin-left: 200px;
+    margin-top: -200px;
+    
+}
+.menu a {
+    text-decoration: none;
+    color: #111010;
+    font-family: serif;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    
+}
+li{
+    
+    display:inline;
+    text-align: left;
+    margin-left: 50px;
+    font-size: 30px;
+    color: rgb(92, 17, 17);
+    text-decoration: none;
+    padding-bottom: 30px;
+    
+}
